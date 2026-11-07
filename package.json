@@ -1,0 +1,20 @@
+{
+  "name": "ts-immutable-map",
+  "version": "1.0.0",
+  "description": "Persistent immutable hash-array mapped trie (HAMT)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx tsx main.ts"
+  },
+  "keywords": ["typescript", "immutable", "hamt", "persistent", "data-structures"],
+  "author": "Mahmoud ElNemer <sultanelnemer@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElNeMeR70/ts-immutable-map.git"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
